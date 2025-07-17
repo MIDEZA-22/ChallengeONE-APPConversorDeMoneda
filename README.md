@@ -47,7 +47,7 @@ Aquí hay algunas sugerencias para mejorar el programa:
 
 ## Autor
 
-[Mijail Denis Zavala LLanco](https://www.linkedin.com/in/mideza22)
+[Mijail Zavala LLanco](https://www.linkedin.com/in/mideza22)
 
 ## Licencia
 
